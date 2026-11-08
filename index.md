@@ -14,4 +14,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [PERATURAN ARSIP NASIONAL REPUBLIK INDONESIA NOMOR 6 TAHUN 2021](ebook/PerANRINomor6Tahun2021.pdf) - Taufik (2021)
 9. [Promosi Dinas Perpustakaan dan Kearsipan Kota Surakarta Melalui Sosial Media Instagram](ebook/38028-86370-1-SM.pdf) - Lathifa (2021)
 10. [ANALISIS PERPUSTAKAAN SEBAGAI SUMBER LITERASI GENERASI Z DI ERA DIGITAL](ebook/32368-96210-1-PB.pdf) - Agus dkk (2024)
-11. [Rangkuman UGC_Asma Mufidah_13040124120001](ebook/RangkumanUGC_Asma Mufidah_13040124120001.pdf) - Asma (2026
+11. [RangkumanUGC_Asma Mufidah_13040124120001](ebook/RangkumanUGC_Asma Mufidah_13040124120001.pdf) - Asma (2026)
