@@ -10,3 +10,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [FUNGSI DAN PERANAN HUMAS DALAM SEBUAH PERPUSTAKAAN](ebook/120-236-1-SM.pdf) - Murtedjo (1996)
 7. [PEMANFAATAN MEDIA SOSIAL SEBAGAI KEGIATAN KEHUMASAN PERPUSTAKAAN IPDN JATINANGOR](ebook/auliya+5.+Naskah+Jurnal+Auliya.pdf) - Auliya (2021)
 8. [PERATURAN ARSIP NASIONAL REPUBLIK INDONESIA NOMOR 6 TAHUN 2021](ebook/PerANRINomor6Tahun2021.pdf) - Taufik (2021)
+9. [Promosi Dinas Perpustakaan dan Kearsipan Kota Surakarta Melalui Sosial Media Instagram](ebook/38028-86370-1-SM.pdf) - Lathifa (2021)
