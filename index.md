@@ -11,3 +11,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [PEMANFAATAN MEDIA SOSIAL SEBAGAI KEGIATAN KEHUMASAN PERPUSTAKAAN IPDN JATINANGOR](ebook/auliya+5.+Naskah+Jurnal+Auliya.pdf) - Auliya (2021)
 8. [PERATURAN ARSIP NASIONAL REPUBLIK INDONESIA NOMOR 6 TAHUN 2021](ebook/PerANRINomor6Tahun2021.pdf) - Taufik (2021)
 9. [Promosi Dinas Perpustakaan dan Kearsipan Kota Surakarta Melalui Sosial Media Instagram](ebook/38028-86370-1-SM.pdf) - Lathifa (2021)
+10. [ANALISIS PERPUSTAKAAN SEBAGAI SUMBER LITERASI GENERASI Z DI ERA DIGITAL](ebook/32368-96210-1-PB.pdf) - Agus dkk (2024)
