@@ -8,3 +8,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Understanding the Effects of Online Paywalls on Information Access](ebook/ShahSneha2021(1).pdf) - Shah (2021)
 5. [PERAN PUBLIC RELATIONS DALAM KOMUNIKASI ORGANISASI DI PERPUSTAKAAN](ebook/1879-3966-1-SM.pdf) - Febianti (2020)
 6. [FUNGSI DAN PERANAN HUMAS DALAM SEBUAH PERPUSTAKAAN](ebook/120-236-1-SM.pdf) - Murtedjo (1996)
+7. [PEMANFAATAN MEDIA SOSIAL SEBAGAI KEGIATAN KEHUMASAN PERPUSTAKAAN IPDN JATINANGOR](ebook/auliya+5.+Naskah+Jurnal+Auliya.pdf) - Auliya (2021)
