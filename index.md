@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 # Koleksi
 1. [Ini Atau Itu Diksus](ebook/Ini_Atau_Itu_Diksus.pdf) – Barbara dan Singgih (2023) 
 2. [Putri Didalam Hutan Ing](ebook/Putri_Didalam_Hutan_Ing.pdf) - Witaru (2024)
-3. [Hubungan Antara Intensitas Penggunaan Media Sosial dan Tingkat Depresi pada Mahasiswa](ebook/nesyaadira+1.+Vol+2(2)-2020-Asma.pdf) - Asma (2020)
+3. [Biji Merah Luna Diksus](ebook/Biji_Merah_Luna_Diksus.pdf) - Ammy (2023)
 4. [Understanding the Effects of Online Paywalls on Information Access](ebook/ShahSneha2021(1).pdf) - Shah (2021)
 5. [PERAN PUBLIC RELATIONS DALAM KOMUNIKASI ORGANISASI DI PERPUSTAKAAN](ebook/1879-3966-1-SM.pdf) - Febianti (2020)
 6. [FUNGSI DAN PERANAN HUMAS DALAM SEBUAH PERPUSTAKAAN](ebook/120-236-1-SM.pdf) - Murtedjo (1996)
