@@ -11,9 +11,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Gambar Lucu Mika Diksus](ebook/Gambar_Lucu_Mika_Diksus.pdf) - Tyas (2023)
 6. [Karena Anggrek Ibu Ing](ebook/Karena_Anggrek_Ibu_Ing.pdf) - Debby (2024)
 7. [Naik Naik Kepuncak Bukit Ing](ebook/Naik_Naik_Kepuncak_Bukit_Ing.pdf) - Sarah (2024)
-8. [PERATURAN ARSIP NASIONAL REPUBLIK INDONESIA NOMOR 6 TAHUN 2021](ebook/PerANRINomor6Tahun2021.pdf) - Taufik (2021)
-9. [Promosi Dinas Perpustakaan dan Kearsipan Kota Surakarta Melalui Sosial Media Instagram](ebook/38028-86370-1-SM.pdf) - Lathifa (2021)
-10. [ANALISIS PERPUSTAKAAN SEBAGAI SUMBER LITERASI GENERASI Z DI ERA DIGITAL](ebook/32368-96210-1-PB.pdf) - Agus dkk (2024)
+8. [Kue Kimu Diksus](ebook/Kue_Kimu_Diksus.pdf) - Lia (2023)
+9. [Namaku Kali Ing](ebook/Namaku_Kali_Ing.pdf) - Anna (2024)
+10. [Aku Sudah Besar IngL](ebook/Aku_Sudah_Besar_Ing) - Futri (2024)
 11. [Rangkuman UGC_Asma Mufidah_13040124120001](ebook/RangkumanUGC_AsmaMufidah_13040124120001.pdf) - Asma (2026)
 ---
 *Powered by GitHub Pages*
