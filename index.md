@@ -4,7 +4,7 @@ NIM: 13040124120001
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 # Koleksi
-1. [Aku sudah Besar Diksus](ebook/KAku_sudah_Besar_Diksus.pdf) – Futri dan Rizkia (2023) 
+1. [Aku sudah Besar Diksus](ebook/Aku_sudah_Besar_Diksus.pdf) – Futri dan Rizkia (2023) 
 2. [EKSISTENSI TRADISI LISAN SEBAGAI SUMBER SEJARAH LOKAL](ebook/1178-5636-1-PB.pdf) - Bayu (2022)
 3. [Hubungan Antara Intensitas Penggunaan Media Sosial dan Tingkat Depresi pada Mahasiswa](ebook/nesyaadira+1.+Vol+2(2)-2020-Asma.pdf) - Asma (2020)
 4. [Understanding the Effects of Online Paywalls on Information Access](ebook/ShahSneha2021(1).pdf) - Shah (2021)
