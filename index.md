@@ -13,7 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Naik Naik Kepuncak Bukit Ing](ebook/Naik_Naik_Kepuncak_Bukit_Ing.pdf) - Sarah (2024)
 8. [Kue Kimu Diksus](ebook/Kue_Kimu_Diksus.pdf) - Lia (2023)
 9. [Namaku Kali Ing](ebook/Namaku_Kali_Ing.pdf) - Anna (2024)
-10. [Aku Sudah Besar Ing](ebook/Aku_Sudah_Besar_Ing) - Futri (2024)
+10. [Aku Sudah Besar Ing](ebook/Aku_Sudah_Besar_Ing.pdf) - Futri (2024)
 11. [Rangkuman UGC_Asma Mufidah_13040124120001](ebook/RangkumanUGC_AsmaMufidah_13040124120001.pdf) - Asma (2026)
 ---
 *Powered by GitHub Pages*
